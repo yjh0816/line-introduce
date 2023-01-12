@@ -10,7 +10,7 @@ Let's me introduce myself
 
 ## introduce
 <h3>김윤재</h3>
-
+Hello, my name is younjae kim. nice to meet!! 
 <h3>박성준</h3>
 
 <h3>이주형</h3>
