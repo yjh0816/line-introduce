@@ -15,7 +15,8 @@ Hello, my name is younjae kim. nice to meet!!
 안녕하세요 박성준입니다.
 잘부탁드려요~~~
 <h3>이주형</h3>
-
+Hi, I'm Juhyeong. Nice to meet you guys. 
+I'm very happy to your pull requests.
 <h3>신재익</h3>
 
 <h3>김주연</h3>
